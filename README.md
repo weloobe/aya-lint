@@ -65,9 +65,9 @@ $ bun add @ayahub/lint -D
 To use template ignore files, run the following command:
 
 ```bash
-$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/master/.eslintignore
-$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/master/.gitignore
-$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/master/.prettierignore
+$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/main/.eslintignore
+$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/main/.gitignore
+$ curl -O https://raw.githubusercontent.com/weloobe/aya-lint/main/.prettierignore
 ```
 
 <div align="right">
@@ -217,7 +217,7 @@ This project is [MIT](./LICENSE) licensed.
 [github-forks-shield]: https://img.shields.io/github/forks/weloobe/aya-lint?color=8ae8ff&labelColor=black&style=flat-square
 [github-issues-link]: https://github.com/weloobe/aya-lint/issues
 [github-issues-shield]: https://img.shields.io/github/issues/weloobe/aya-lint?color=ff80eb&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/weloobe/aya-lint/blob/master/LICENSE
+[github-license-link]: https://github.com/weloobe/aya-lint/blob/main/LICENSE
 [github-license-shield]: https://img.shields.io/github/license/weloobe/aya-lint?color=white&labelColor=black&style=flat-square
 [github-releasedate-link]: https://github.com/weloobe/aya-lint/releases
 [github-releasedate-shield]: https://img.shields.io/github/release-date/weloobe/aya-lint?labelColor=black&style=flat-square
