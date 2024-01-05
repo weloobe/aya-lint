@@ -193,6 +193,8 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 #### 📝 License
 
+_Inspired by [LobeHub][profile-link-lobe]._ <br />
+
 Copyright © 2023 [AyaHub][profile-link]. <br />
 This project is [MIT](./LICENSE) licensed.
 
@@ -228,6 +230,7 @@ This project is [MIT](./LICENSE) licensed.
 [npm-downloads-shield]: https://img.shields.io/npm/dt/@ayahub/lint?labelColor=black&style=flat-square
 [npm-release-link]: https://www.npmjs.com/package/@ayahub/lint
 [npm-release-shield]: https://img.shields.io/npm/v/@ayahub/lint?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[pr-welcome-link]: https://github.com/weloobe/aya-chat/pulls
+[pr-welcome-link]: https://github.com/weloobe/aya-lint/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-link]: https://github.com/weloobe
+[profile-link-lobe]: https://github.com/lobehub
