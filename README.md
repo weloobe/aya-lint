@@ -47,6 +47,7 @@ ESlint config, Prettier config, Remark config for AyaHub
   - [Semantic Release](#semantic-release)
 - [⌨️ Local Development](#️-local-development)
 - [🤝 Contributing](#-contributing)
+- [🔗 Credits](#-credits)
 
 ####
 
@@ -189,11 +190,19 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 </div>
 
+## 🔗 Credits
+
+- _Inspired by [LobeHub][profile-link-lobe]_
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ---
 
 #### 📝 License
-
-_Inspired by [LobeHub][profile-link-lobe]._ <br />
 
 Copyright © 2023 [AyaHub][profile-link]. <br />
 This project is [MIT](./LICENSE) licensed.
