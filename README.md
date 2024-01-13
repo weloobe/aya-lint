@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-logo/1.0.0/files/assets/logo-3d.webp">
+<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-logo/1.2.0/files/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files/assets/triangular-ruler.webp">
 
